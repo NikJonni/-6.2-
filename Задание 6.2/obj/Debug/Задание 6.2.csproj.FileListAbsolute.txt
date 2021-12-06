@@ -1,0 +1,8 @@
+C:\Users\Никита\Desktop\C#\Задание 6\Задание 6.2\Задание 6.2\bin\Debug\Задание 6.2.exe.config
+C:\Users\Никита\Desktop\C#\Задание 6\Задание 6.2\Задание 6.2\bin\Debug\Задание 6.2.exe
+C:\Users\Никита\Desktop\C#\Задание 6\Задание 6.2\Задание 6.2\bin\Debug\Задание 6.2.pdb
+C:\Users\Никита\Desktop\C#\Задание 6\Задание 6.2\Задание 6.2\obj\Debug\Задание 6.2.csproj.AssemblyReference.cache
+C:\Users\Никита\Desktop\C#\Задание 6\Задание 6.2\Задание 6.2\obj\Debug\Задание 6.2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Никита\Desktop\C#\Задание 6\Задание 6.2\Задание 6.2\obj\Debug\Задание 6.2.csproj.CoreCompileInputs.cache
+C:\Users\Никита\Desktop\C#\Задание 6\Задание 6.2\Задание 6.2\obj\Debug\Задание 6.2.exe
+C:\Users\Никита\Desktop\C#\Задание 6\Задание 6.2\Задание 6.2\obj\Debug\Задание 6.2.pdb
